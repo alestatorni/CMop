@@ -1,0 +1,22 @@
+MainWindow{
+	background:#ffffff;
+}
+centralWidget{
+	background:#ffffff;
+}
+stackedWidget{
+	background:#ffffff;
+}
+QFrame{
+	background:#ffffff;
+}
+
+QPushButton:hover{
+	background:#00d0ff;
+	border:none;
+}
+
+QPushButton:pressed{
+	background:#00bfff;
+	border:none;
+}
